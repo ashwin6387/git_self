@@ -1,2 +1,4 @@
 this is the main file.
 Now i created my repo and also i have push one time.
+add another file to the folder and commit also it.
+this is the my sencond pushed.
